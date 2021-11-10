@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-02T22:07:02 IST" name="Suite" finished-at="2021-11-02T22:07:02 IST" duration-ms="137">
+    <groups>
+    </groups>
+    <test started-at="2021-11-02T22:07:02 IST" name="Test" finished-at="2021-11-02T22:07:02 IST" duration-ms="137">
+      <class name="com.naresh.automation.scripts.Demo">
+        <test-method signature="demo()[pri:0, instance:com.naresh.automation.scripts.Demo@3059cbc]" started-at="2021-11-02T22:07:02 IST" name="demo" finished-at="2021-11-02T22:07:02 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.naresh.automation.scripts.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
