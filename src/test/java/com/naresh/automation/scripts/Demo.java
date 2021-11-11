@@ -8,5 +8,9 @@ public class Demo {
 	private void demo() {
 		System.out.println("MAVEN");
 	}
-	
+
+	private void job() {
+		System.out.println("MAVEN PROJECT");
+	}
 }
+
